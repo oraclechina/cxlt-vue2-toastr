@@ -6,8 +6,8 @@
             <div class="toast-icon">
             <img :src="iconSrc"/>
             </div>
-            <div class="toast-title">{{title}}</div>
-            <div class="toast-message">{{message}}</div>
+            <div class="toast-title">{{title}}1111111</div>
+            <div class="toast-message">{{message}}999999999999</div>
         </div>
     </transition>
 </template>
